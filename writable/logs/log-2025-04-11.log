@@ -31,3 +31,1042 @@ INFO - 2025-04-11 02:19:15 --> Session: Class initialized using 'CodeIgniter\Ses
 INFO - 2025-04-11 02:19:15 --> Controller "App\Controllers\base\Order" loaded.
 INFO - 2025-04-11 02:19:24 --> Controller "App\Controllers\base\Beranda" loaded.
 INFO - 2025-04-11 02:19:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 02:51:10 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2025-04-11 02:51:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 02:51:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 02:51:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 02:51:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 02:52:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 02:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:54:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:54:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:54:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:54:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:54:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:19 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 02:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:20 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 02:55:20 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 02:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:55:20 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 02:55:20 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 02:57:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:57:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:57:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:57:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:57:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:57:58 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:07 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:58:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 02:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 02:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 02:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:19 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 02:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 02:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:20 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 02:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 02:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 02:58:27 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:26:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 03:46:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 03:50:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 03:51:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 03:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:48 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:51:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 03:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:51:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:52:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:14 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:16 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:18 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:52:51 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:08 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:09 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 03:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:53:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 03:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:36 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 03:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:36 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 03:53:36 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 03:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:53:36 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 03:53:36 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 03:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:54:33 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 03:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:54:43 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 03:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:54:43 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 03:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:54:43 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 03:54:43 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 03:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:54:43 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 03:54:43 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 03:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:58:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:58:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 03:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:58:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 03:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 03:58:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:01:15 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:01:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:01:18 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:01:19 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:01:19 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:01:19 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:01:19 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:01:44 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:01:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 04:01:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 04:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:02:59 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:02:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 04:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:03:00 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:03:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:03:03 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:03:04 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 8, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:03:21 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:03:21 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:03:21 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:03:22 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:03:22 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:08:33 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:08:34 --> Undefined variable: tempat
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(219): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 219, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:09:13 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:09:13 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:09:13 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:09:14 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:09:14 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:19:13 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:19:13 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:19:20 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:19:20 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:21:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:21:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:21:46 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:21:52 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:21:52 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:22:14 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:22:14 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:22:20 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:22:20 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:22:24 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:22:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 04:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:22:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:22:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 04:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:22:28 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:22:28 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:23:32 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:23:32 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:23:32 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:23:32 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:23:33 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:23:33 --> Undefined variable: posisi_mempelai
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 04:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:24:42 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:24:43 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:24:43 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:24:43 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:24:43 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:24:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:40:13 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:42:34 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:42:35 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:42:35 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:42:35 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:42:35 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:44:12 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:44:12 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:44:12 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:44:12 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:44:12 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:52:33 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 04:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:52:33 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:52:33 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:52:33 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:52:33 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 04:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 04:55:34 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 04:55:34 --> Undefined variable: tempat
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 05:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:03:22 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:03:22 --> Undefined variable: tempat
+#0 C:\xampp\htdocs\rayakandigital\app\Views\bukutamu\home.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('bukutamu/home', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(82): view('bukutamu/home', Array)
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2025-04-11 05:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:04:58 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:04:59 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:04:59 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:04:59 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:04:59 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:05:29 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:05:30 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:05:30 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:05:30 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:05:30 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:05:32 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:05:39 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:05:39 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:05:39 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:05:39 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:05:39 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:08:48 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:08:52 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:08:52 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:08:53 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:08:53 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:09:54 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:12:40 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 05:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:12:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:12:45 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:12:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:12:46 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:12:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:12:46 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:12:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:12:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:12:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 05:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:14 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:14 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:13:14 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:15 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:13:15 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:13:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 05:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:13:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-11 05:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:43 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:13:44 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:13:44 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:14:02 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:14:50 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:14:51 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:14:51 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:14:52 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:14:52 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:14:52 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:15:21 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:15:22 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:15:22 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:15:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:15:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:15:46 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:24 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:24 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:16:24 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:48 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:49 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:16:49 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:49 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:50 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:16:50 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:50 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:51 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:16:51 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:16:59 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:17:00 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:17:00 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:17:48 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:17:48 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:17:48 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:20:15 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:20:16 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:20:16 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:20:47 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:20:47 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:20:47 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:21:39 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:21:39 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:21:40 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:23:19 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:23:20 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:23:20 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:25:20 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:25:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:25:21 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:25:21 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:25:23 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:25:52 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:25:53 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:25:53 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:26:36 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:26:37 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:26:37 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:26:57 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:26:57 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:26:57 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:27:31 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:27:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:28:08 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:29:39 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:32:33 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:34:20 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:34:21 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:34:21 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:34:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:34:50 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:35:41 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:35:42 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:35:42 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:08 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:08 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-11 05:36:08 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-11 05:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:28 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:30 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-11 05:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:39 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 05:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 05:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-11 05:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:49 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-11 05:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:36:56 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-11 05:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:37:37 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-11 05:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:37:37 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-11 05:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:37:42 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-11 05:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:37:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-11 05:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:37:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-11 05:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:37:52 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-11 05:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-11 05:37:53 --> Controller "App\Controllers\admin\Admin" loaded.
