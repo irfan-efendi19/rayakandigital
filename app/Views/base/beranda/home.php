@@ -514,6 +514,8 @@
 <section id="faq" class="faq-section py-5" id="faq">
     <div class="container">
         <h2 data-aos="fade-down" class="area-title text-center">❓ Pertanyaan Umum (FAQ)</h2>
+
+        
         <div class="faq-item mb-3">
             <button class="faq-question d-flex justify-content-between align-items-center" data-bs-toggle="collapse"
                 data-bs-target="#faq4" aria-expanded="false" aria-controls="faq4">

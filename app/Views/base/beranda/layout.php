@@ -4,40 +4,43 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title> <?php if($title != 'Beranda') { echo $title.' -'; } ?> <?= SITE_NAME ?> | Modern, Praktis, dan Penuh Makna
-    </title>
+    <title><?php if($title != 'Beranda') { echo $title.' - '; } ?>Rayakan Digital | Solusi Digital Acara Modern</title>
+
     <meta name="theme-color" content="#7ed9fc">
     <meta name="msapplication-navbutton-color" content="#7ed9fc">
     <meta name="apple-mobile-web-app-status-bar-style" content="#7ed9fc">
+
     <!-- Favicons -->
-    <link rel="shortcut icon" href="<?php echo base_url() ?>/assets/base/img/favicon.ico">
-    <link rel="apple-touch-icon" href="<?php echo base_url() ?>/assets/base/img/favicon.ico">
-    <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url() ?>/assets/base/img/favicon.ico">
-    <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url() ?>/assets/base/img/favicon.ico">
+    <link rel="shortcut icon" href="<?= base_url() ?>/assets/base/img/favicon.ico">
+    <link rel="apple-touch-icon" href="<?= base_url() ?>/assets/base/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="72x72" href="<?= base_url() ?>/assets/base/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="114x114" href="<?= base_url() ?>/assets/base/img/favicon.ico">
+
+    <!-- SEO -->
     <meta name="robots" content="index, follow" />
     <meta name="description"
-        content="<?= SITE_NAME ?> adalah layanan undangan online. Yaitu undangan yang dikemas dalam bentuk web yang praktis dan mudah untuk digunakan maupun dibagikan. Selain itu kami juga menerima jasa pembuatan undangan cetak maupun Video.">
+        content="Rayakan Digital adalah solusi digital untuk acara modern seperti pernikahan, ulang tahun, khitanan, dan lainnya. Kami menyediakan undangan online, buku tamu digital, QR code tamu, hingga layanan live streaming acara Anda.">
     <meta name="keywords"
-        content="undangan digital,undangan online,undangan pernikahan,undangan murah, undangan praktis,undangan nikah,undangan website,creative digital,digital marketing lampung, undangan cetak, udangan kartu,undangan lampung murah,undangan online lampung">
-    <meta name="author" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna">
-    <meta http-equiv="Copyright" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna">
-    <meta name="copyright" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna">
-    <meta property="og:type" content="article" />
-    <meta property="profile:first_name" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna" />
-    <meta property="profile:last_name" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna" />
-    <meta property="profile:username" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna" />
-    <!-- facebook -->
-    <meta property="og:title" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna" />
-    <meta property="og:type" content="blog">
+        content="rayakan digital, undangan digital, undangan online, undangan pernikahan, QR code tamu, buku tamu digital, live streaming acara, website undangan, acara modern, undangan web">
+    <meta name="author" content="Rayakan Digital">
+    <meta http-equiv="Copyright" content="Rayakan Digital">
+    <meta name="copyright" content="Rayakan Digital">
+
+    <!-- Facebook Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rayakan Digital | Solusi Digital Acara Modern" />
     <meta property="og:description"
-        content="<?= SITE_NAME ?> adalah layanan Rayakan Digital. Yaitu undangan yang dikemas dalam bentuk web yang praktis dan mudah untuk digunakan maupun dibagikan. Selain itu kami juga menerima jasa pembuatan undangan cetak maupun Video." />
-    <meta property="og:image" content="<?php echo base_url() ?>/assets/base/img/favicon.ico" />
-    <meta property="og:url" content="<?php echo base_url() ?>" />
-    <meta property="og:site_name" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna" />
-    <!-- google -->
-    <meta itemprop="name" content="Rayakan Digital | Modern, Praktis, dan Penuh Makna" />
+        content="Solusi lengkap untuk acara digital Anda. Undangan online, buku tamu digital, QR code, dan live streaming dalam satu layanan dari Rayakan Digital." />
+    <meta property="og:image" content="<?= base_url() ?>/assets/base/img/thumbnail.jpg" />
+    <meta property="og:url" content="<?= base_url() ?>" />
+    <meta property="og:site_name" content="Rayakan Digital" />
+
+    <!-- Google Structured Data -->
+    <meta itemprop="name" content="Rayakan Digital | Solusi Digital Acara Modern" />
     <meta itemprop="description"
-        content="<?= SITE_NAME ?> adalah layanan Rayakan Digital. Yaitu undangan yang dikemas dalam bentuk web yang praktis dan mudah untuk digunakan maupun dibagikan. Selain itu kami juga menerima jasa pembuatan undangan cetak maupun Video." />
+        content="Rayakan Digital adalah layanan undangan online & solusi acara digital untuk pernikahan, ulang tahun, dan lainnya." />
+    <meta itemprop="image" content="<?= base_url() ?>/assets/base/img/thumbnail.jpg" />
+
 
 
     <!-- </head> -->
@@ -125,6 +128,8 @@
                         href="https://www.facebook.com/rayakan.digital/"><i class="fab fa-facebook"></i></a>
                     <a class="btn btn-square btn-outline-light rounded-circle me-2" target="_blank"
                         href="https://www.instagram.com/rayakan_digital/"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-square btn-outline-light rounded-circle me-2" target="_blank"
+                        href="https://www.youtube.com/@RayakanDigital"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
             <div class="col-lg-6 ps-lg-5">
@@ -140,8 +145,8 @@
                     <div class="col-sm-6">
                         <h4 class="text-light mb-4">Tutorial</h4>
                         <a class="btn btn-link" href="maps">Menambahkan Maps</a>
-                        <a class="btn btn-link" href="youtube" >Menambahkan Video Youtube</a>
-                        <a class="btn btn-link" href="import_tamu" >Import Tamu Menggunakan Excel</a>
+                        <a class="btn btn-link" href="youtube">Menambahkan Video Youtube</a>
+                        <a class="btn btn-link" href="import_tamu">Import Tamu Menggunakan Excel</a>
                     </div>
                     <div class="col-sm-12">
                         <h4 class="text-light mb-4">Metode Pembayaran</h4>
