@@ -16,7 +16,7 @@
                       <div class="h5 mb-0 font-weight-bold text-gray-800"><?= rupiah($totalKeuntungan) ?></div>
                     </div>
                     <div class="col-auto">
-                      <i class="fas fa-calendar fa-2x text-primary"></i>
+                      <i class="fas fa-calendar fa-2x"></i>
                     </div>
                   </div>
                 </div>
@@ -59,7 +59,7 @@
             <div class="col-xl-12 col-lg-12 mb-4">
               <div class="card">
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-primary">Invoice</h6>
+                  <h6 class="m-0 font-weight-bold">Invoice</h6>
                   <a class="m-0 float-right btn btn-danger btn-sm" href="<?= base_url('admin/pembayaran') ?>">Lihat Lebih <i
                       class="fas fa-chevron-right"></i></a>
                 </div>

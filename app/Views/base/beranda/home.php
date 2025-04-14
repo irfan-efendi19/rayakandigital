@@ -18,21 +18,24 @@
 
                         <div class="carousel-item active">
                             <div class="image-wrapper">
-                                <img src="assets/files/f1.jpg" class="img-fluid" style="height: 1 rem; border-radius: 50px;">
+                                <img src="assets/files/f1.jpg" class="img-fluid"
+                                    style="height: 1 rem; border-radius: 50px;">
                             </div>
                             <div class="mt-2">Undangan Digital</div>
                         </div>
 
                         <div class="carousel-item">
                             <div class="image-wrapper">
-                                <img src="assets/files/f3.jpg" class="img-fluid" style="height: 1 rem; border-radius: 50px;">
+                                <img src="assets/files/f3.jpg" class="img-fluid"
+                                    style="height: 1 rem; border-radius: 50px;">
                             </div>
                             <div class="mt-2">Buku Tamu</div>
                         </div>
 
                         <div class="carousel-item">
                             <div class="image-wrapper">
-                                <img src="assets/files/f2.jpg" class="img-fluid" style="height: 1 rem; border-radius: 50px;">
+                                <img src="assets/files/f2.jpg" class="img-fluid"
+                                    style="height: 1 rem; border-radius: 50px;">
                             </div>
                             <div class="mt-2">Hitung Mundur</div>
                         </div>
@@ -269,6 +272,20 @@
             </div>
             <!-- End .col-lg-6  -->
         </div>
+
+        <!-- Segmented Control -->
+        <div class="segmented-control-container" data-aos="fade-down" data-aos-delay="50">
+            <div class="segmented-control">
+                <input type="radio" name="duration" id="monthly" value="monthly" checked>
+                <label for="monthly" class="segmented-control-label">Paket Reguler</label>
+
+                <input type="radio" name="duration" id="yearly" value="yearly">
+                <label for="yearly" class="segmented-control-label">Paket Premium</label>
+
+                <div class="segmented-control-highlight"></div>
+            </div>
+        </div>
+
         <div class="pricing-container">
             <div class="row">
                 <?php foreach($paket as $data){ ?>
@@ -303,9 +320,8 @@
                                     Amplop Digital</li>
                                 <li>Galeri Foto</li>
                                 <li>Background Music</li>
-
-                            </ul><a class="btn btn--bordered btn--primary" href="<?= base_url() ?>/order">Buat
-                                Undangan</a>
+                            </ul>
+                            <a class="btn btn--bordered btn--primary" href="<?= base_url() ?>/order">Buat Undangan</a>
                         </div>
                     </div>
                 </div>
@@ -317,6 +333,8 @@
     </div>
     <!-- End .container-->
 </section>
+
+
 <!-- THEME -->
 <section class="sw-container" id="themes" style="background:#F8FBFD">
     <div class="container">
@@ -515,7 +533,7 @@
     <div class="container">
         <h2 data-aos="fade-down" class="area-title text-center">❓ Pertanyaan Umum (FAQ)</h2>
 
-        
+
         <div class="faq-item mb-3">
             <button class="faq-question d-flex justify-content-between align-items-center" data-bs-toggle="collapse"
                 data-bs-target="#faq4" aria-expanded="false" aria-controls="faq4">

@@ -570,8 +570,41 @@ $('img').bind('contextmenu', function(e){
 
 
 // UPDATE
-    // Initiate the wowjs
-
-      
-
-      
+document.addEventListener('DOMContentLoaded', function() {
+    const segmentedControl = document.querySelector('.segmented-control');
+    const highlight = document.querySelector('.segmented-control-highlight');
+    const radios = document.querySelectorAll('.segmented-control input[type="radio"]');
+    
+    // Initialize highlight position
+    updateHighlightPosition();
+    
+    // Update highlight position when radio changes
+    radios.forEach(radio => {
+        radio.addEventListener('change', updateHighlightPosition);
+    });
+    
+    function updateHighlightPosition() {
+        const checkedRadio = document.querySelector('.segmented-control input[type="radio"]:checked');
+        if (checkedRadio) {
+            const index = Array.from(radios).indexOf(checkedRadio);
+            highlight.style.transform = `translateX(${index * 100}%)`;
+        }
+    }
+    
+    // Optional: Add keyboard navigation
+    segmentedControl.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
+            const currentIndex = Array.from(radios).findIndex(radio => radio.checked);
+            let newIndex;
+            
+            if (e.key === 'ArrowLeft') {
+                newIndex = (currentIndex - 1 + radios.length) % radios.length;
+            } else {
+                newIndex = (currentIndex + 1) % radios.length;
+            }
+            
+            radios[newIndex].checked = true;
+            updateHighlightPosition();
+        }
+    });
+});

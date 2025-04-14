@@ -19,23 +19,27 @@
                     <div id="konten-gallery">
 
                         <!-- <form action="" method="post" enctype="multipart/form-data"> -->
-                        <div class="row mt-4">
-                            <div class="col-12">
-                                <label class="form-label">Upload Foto Gallery</label>
-                                <div class="upload-area-bg d-flex flex-column align-items-center justify-content-center p-4"
-                                    style="min-height: 200px;">
-                                    <div class="upload-area-icon-main mb-3">
-                                        <i class="lni lni-cloud-download" style="font-size: 2rem;"></i>
+                        <div class="row align-items-center mt-4">
+                            <label>Upload Foto Galleri : </label>
+                            <div class="upload-area-bg">
+
+                                <div class="upload-area do-add-btn">
+                                    <div class="upload-area-inner">
+                                        <div class="upload-area-icon-main">
+                                            <i class="lni-cloud-download"></i>
+                                        </div>
+                                        <h3 class="upload-area-caption">
+                                            <span>Drag and drop files here</span>
+                                        </h3>
+                                        <p>or</p>
+                                        <button class="upload-area-button btn " style="z-index:9999;">
+                                            <span>Browse files</span>
+                                        </button>
                                     </div>
-                                    <h3 class="upload-area-caption text-center mb-2">
-                                        <span>Drag and drop files here</span>
-                                    </h3>
-                                    <p class="mb-3">or</p>
-                                    <button class="upload-area-button btn btn-primary">
-                                        <span>Browse files</span>
-                                    </button>
                                 </div>
+
                             </div>
+
                         </div>
                         <!-- </form> -->
                         <div style="text-align: center;">
@@ -81,12 +85,12 @@
 
                     <form method="post" action="<?= base_url('order/finish'); ?>">
                         <div class="form-check mt-4">
-                            <label class="form-check-label d-flex align-items-center">
-                                <input type="checkbox" class="form-check-input" id="skipCerita" name="skipCerita">
-                                <span class="ms-2">Jangan Aktifkan Fitur Ini</span>
+                            <input type="checkbox" class="form-check-input" id="skipGallery" name="skipGallery">
+                            <label class="form-check-label" for="skipGallery"
+                                style="color: #2c3e50; margin-left: 6px; position: relative; top: 3px;">
+                                Jangan Aktifkan Fitur Ini
                             </label>
                         </div>
-
                         <div class="row justify-content-start mt-3">
                             <div class="col">
                                 <div class="row">

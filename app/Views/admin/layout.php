@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <meta name="theme-color" content="#3498db" />
+    <meta name="theme-color" content="#fa9a00" />
     <link href="<?= base_url('assets/base'); ?>/img/favicon.ico" rel="icon">
     <title><?= SITE_NAME; ?> - <?= $title; ?></title>
     <link href="<?= base_url('assets/admin/'); ?>/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -229,6 +229,8 @@ $(function(){
         })
     <?php } ?>
 });
+
+
 </script>
 </body>
 
