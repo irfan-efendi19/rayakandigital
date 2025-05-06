@@ -1,14 +1,7 @@
-@font-face {
-  font-family: "Nunito";
-  src: url("../font/Nunito-Regular.ttf");
-  src: url("../font/Nunito-Regular.ttf") format("ttf"),
-    url("../font/Nunito-Regular.ttf") format("truetype");
-}
-
 html {
   position: relative;
   min-height: 100%;
-  font-family: "Nunito";
+  font: "Noto", sans-serif;
 }
 
 body {
@@ -26,7 +19,7 @@ a:focus {
 }
 
 body {
-  font-family: "Inter", sans-serif;
+  font: "Noto", sans-serif;
   background-color: #f0f2f5;
 }
 
@@ -970,11 +963,10 @@ form input[type="password"] {
 .sidebar .sidebar-brand {
   height: 4.375rem;
   text-decoration: none;
-  font-size: 1rem;
-  font-weight: 800;
+  font-size: 1.2rem;
+  font-weight: bold;
   padding: 1.5rem 1rem;
   text-align: center;
-  letter-spacing: 0.05rem;
   z-index: 1;
 }
 

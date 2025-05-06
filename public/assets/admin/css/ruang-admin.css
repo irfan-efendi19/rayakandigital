@@ -1,7 +1,14 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("../font/Nunito-Regular.ttf");
+  src: url("../font/Nunito-Regular.ttf") format("ttf"),
+    url("../font/Nunito-Regular.ttf") format("truetype");
+}
+
 html {
   position: relative;
   min-height: 100%;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Nunito";
 }
 
 body {
@@ -19,7 +26,7 @@ a:focus {
 }
 
 body {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   background-color: #f0f2f5;
 }
 
@@ -36,7 +43,6 @@ body {
   background: #fff;
   padding: 60px;
   display: flex;
-  margin-right: 1 rem;
   flex-direction: column;
   justify-content: center;
 }
@@ -84,8 +90,39 @@ p {
   font-size: 14px;
 }
 
+.btn.google,
+.btn.facebook {
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
 .btn i {
   margin-right: 8px;
+}
+
+.divider {
+  position: relative;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.divider span {
+  background: #fff;
+  padding: 0 12px;
+  position: relative;
+  z-index: 2;
+  color: #888;
+}
+
+.divider::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-color: #ccc;
+  z-index: 1;
 }
 
 form input[type="email"],
@@ -151,9 +188,7 @@ form input[type="password"] {
 
   .login-left {
     width: 100%;
-    padding: 40px 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding: 40px 20px;
   }
 }
 
@@ -291,7 +326,7 @@ form input[type="password"] {
     left top,
     left bottom,
     color-stop(10%, #fa9a00),
-    to(#fa9a00)
+    to(#00c6f9)
   );
   background-image: linear-gradient(180deg, #fa9a00 10%, #00c6f9 100%);
   background-size: cover;
@@ -324,15 +359,15 @@ form input[type="password"] {
 }
 
 .bg-gradient-info {
-  background-color: #fa9a00;
+  background-color: #3abaf4;
   background-image: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    color-stop(10%, #fa9a00),
+    color-stop(10%, #3abaf4),
     to(#258391)
   );
-  background-image: linear-gradient(180deg, #fa9a00 10%, #258391 100%);
+  background-image: linear-gradient(180deg, #3abaf4 10%, #258391 100%);
   background-size: cover;
 }
 
@@ -1271,12 +1306,8 @@ form input[type="password"] {
 }
 
 .sidebar-light .sidebar-brand {
-  background-color: #fa9a00 !important;
-}
-
-.sidebar-light .sidebar-brand {
   color: #fafafa;
-  background-color: #fa9a00 !important;
+  background-color: #fa9a00;
 }
 
 .sidebar-light hr.sidebar-divider {
@@ -2144,7 +2175,7 @@ body.sidebar-toggled footer.sticky-footer {
 }
 
 .upload-area-button {
-  background-image: linear-gradient(to top left, #fa9a00, #fa9a00);
+  background-image: linear-gradient(to top left, #fa9a00, #00c6f9);
   border-radius: 5px;
   padding: 10px;
   margin-top: 10px;

@@ -4,33 +4,26 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <meta name="theme-color" content="#fa9a00" />
     <meta name="author" content="">
+    <meta name="theme-color" content="#fa9a00" />
     <link href="<?= base_url('assets/base'); ?>/img/favicon.ico" rel="icon">
     <title><?= SITE_NAME; ?> - <?= $title; ?></title>
-    <link href="<?= base_url('assets/dashboard/'); ?>/vendor/fontawesome-free/css/all.min.css" rel="stylesheet"
+    <link href="<?= base_url('assets/admin/'); ?>/vendor/fontawesome-free/css/all.min.css" rel="stylesheet"
         type="text/css">
-    <link href="<?= base_url('assets/dashboard/'); ?>/vendor/bootstrap/css/bootstrap.css" rel="stylesheet"
-        type="text/css">
-    <link href="<?= base_url('assets/dashboard/'); ?>/css/ruang-admin.css" rel="stylesheet">
-    <link href="<?= base_url('assets/dashboard/'); ?>/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
-
+    <link href="<?= base_url('assets/admin/'); ?>/vendor/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="<?= base_url('assets/admin/'); ?>/css/ruang-admin.css" rel="stylesheet">
+    <link href="<?= base_url('assets/admin/'); ?>/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo base_url() ?>/assets/base/css/croppie.min.css">
     <link rel="stylesheet" href="<?php echo base_url() ?>/assets/base/css/pikaday.css">
-    <link rel="stylesheet" href="<?php echo base_url() ?>/assets/dashboard/css/qrscan.css">
-    <script src="https://rawgit.com/sitepoint-editors/jsqrcode/master/src/qr_packed.js"></script>
+
+
     <script src="<?= base_url() ?>/assets/base/js/moment-with-locales.js"></script>
     <script src="<?= base_url('assets/dashboard'); ?>/vendor/jquery/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.js"></script>
     <link rel="stylesheet" type="text/css"
         href="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/1.7.1/css/buttons.dataTables.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
-        rel="stylesheet">
 </head>
 
 <body id="page-top">

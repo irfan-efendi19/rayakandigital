@@ -1,0 +1,202 @@
+INFO - 2025-05-07 00:00:50 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2025-05-07 00:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:00:54 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:00:55 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:34 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:40 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:41 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:43 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:44 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:45 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:01:45 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:02:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:02:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:02:55 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:02:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-07 00:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:06 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:03:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-07 00:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:03:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:05:17 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:05:18 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:05:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:05:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:05:34 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-05-07 00:05:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-07 00:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:05:50 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:05:50 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:06:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-07 00:06:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-07 00:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:01 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:01 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:01 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:01 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:05 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:05 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:25 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:25 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:31 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:31 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:31 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:07:31 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:13:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:13:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:13:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:13:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:16:59 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2025-05-07 00:16:59 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(454): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 454, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\admin\Admin->do_update_cerita()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-05-07 00:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:04 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2025-05-07 00:17:04 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(454): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 454, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\admin\Admin->do_update_cerita()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-05-07 00:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:10 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:10 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:21 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:26 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:34 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:43 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:49 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:17:55 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-05-07 00:18:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:18:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:18:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:18:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:19:17 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:19:18 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:19:29 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-05-07 00:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-07 00:19:35 --> Controller "App\Controllers\admin\Admin" loaded.
