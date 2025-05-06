@@ -12,35 +12,41 @@
                 </div>
             </div>
             <div class="col-lg-6 text-center">
-                <!-- Slideshow Layanan termasuk gambar -->
-                <div id="layananCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
-                    <div class="carousel-inner text-center live-streaming-text">
+    <!-- Slideshow Layanan termasuk gambar -->
+    <div id="layananCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000" data-bs-touch="true">
+        
+        <!-- Bullet Controls -->
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
 
-                        <div class="carousel-item active">
-                            <div class="image-wrapper">
-                                <img src="assets/files/f1.jpg" class="img-fluid"
-                                    style="height: 1 rem; border-radius: 50px;">
-                            </div>
-                            <div class="mt-2">Undangan Digital</div>
-                        </div>
-
-                        <div class="carousel-item">
-                            <div class="image-wrapper">
-                                <img src="assets/files/f3.jpg" class="img-fluid"
-                                    style="height: 1 rem; border-radius: 50px;">
-                            </div>
-                            <div class="mt-2">Buku Tamu</div>
-                        </div>
-
-                        <div class="carousel-item">
-                            <div class="image-wrapper">
-                                <img src="assets/files/f2.jpg" class="img-fluid"
-                                    style="height: 1 rem; border-radius: 50px;">
-                            </div>
-                            <div class="mt-2">Hitung Mundur</div>
-                        </div>
-                    </div>
+        <div class="carousel-inner text-center live-streaming-text">
+            <div class="carousel-item active">
+                <div class="image-wrapper">
+                    <img src="assets/files/f1.jpg" class="img-fluid" style="border-radius: 50px;">
                 </div>
+                <div class="mt-2">Undangan Digital</div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="image-wrapper">
+                    <img src="assets/files/f3.jpg" class="img-fluid" style="border-radius: 50px;">
+                </div>
+                <div class="mt-2">Buku Tamu</div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="image-wrapper">
+                    <img src="assets/files/f2.jpg" class="img-fluid" style="border-radius: 50px;">
+                </div>
+                <div class="mt-2">Hitung Mundur</div>
+            </div>
+        </div>
+    </div>
+</div>
+
             </div>
         </div>
     </div>
@@ -274,17 +280,21 @@
         </div>
 
         <!-- Segmented Control -->
-        <div class="segmented-control-container" data-aos="fade-down" data-aos-delay="50">
+        <!-- <div class="segmented-control-container" data-aos="fade-down" data-aos-delay="50">
             <div class="segmented-control">
-                <input type="radio" name="duration" id="monthly" value="monthly" checked>
-                <label for="monthly" class="segmented-control-label">Paket Reguler</label>
+                <input type="radio" name="kategori" id="undangan" value="undangan" checked>
+                <label for="undangan" class="segmented-control-label">Undangan Digital</label>
 
-                <input type="radio" name="duration" id="yearly" value="yearly">
-                <label for="yearly" class="segmented-control-label">Paket Premium</label>
+                <input type="radio" name="kategori" id="bukutamu" value="bukutamu">
+                <label for="bukutamu" class="segmented-control-label">Buku Tamu</label>
+
+                <input type="radio" name="kategori" id="live" value="live">
+                <label for="live" class="segmented-control-label">LIVE Streaming</label>
 
                 <div class="segmented-control-highlight"></div>
             </div>
-        </div>
+        </div> -->
+
 
         <div class="pricing-container">
             <div class="row">

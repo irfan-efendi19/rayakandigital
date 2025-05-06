@@ -326,7 +326,6 @@ form input[type="password"] {
 
 .bg-gradient-primary {
   background-color: #3498db;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #3498db), to(#00c6f9));
   background-image: linear-gradient(180deg, #3498db 10%, #00c6f9 100%);
   background-size: cover;
 }
@@ -347,7 +346,6 @@ form input[type="password"] {
 
 .bg-gradient-info {
   background-color: #3abaf4;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #3abaf4), to(#258391));
   background-image: linear-gradient(180deg, #3abaf4 10%, #258391 100%);
   background-size: cover;
 }
@@ -782,7 +780,7 @@ form input[type="password"] {
 }
 
 .bg-navbar {
-  background-color: #3498db;
+  background-color: #fa9a00;
 }
 
 .sidebar {

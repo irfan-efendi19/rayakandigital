@@ -769,3 +769,12 @@ INFO - 2025-04-14 19:13:55 --> Controller "App\Controllers\admin\Admin" loaded.
 INFO - 2025-04-14 19:14:01 --> Controller "App\Controllers\base\Beranda" loaded.
 INFO - 2025-04-14 19:14:10 --> Controller "App\Controllers\base\Beranda" loaded.
 INFO - 2025-04-14 19:14:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-14 19:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-14 19:16:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-14 19:17:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-14 19:18:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-14 19:18:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-14 19:18:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-14 19:18:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-14 19:19:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-14 19:19:51 --> Controller "App\Controllers\base\Beranda" loaded.

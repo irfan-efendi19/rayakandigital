@@ -1,0 +1,153 @@
+INFO - 2025-04-22 14:55:09 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2025-04-22 14:55:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-22 14:55:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-22 14:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:56:25 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2025-04-22 14:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:56:55 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:03 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:09 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:12 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-22 14:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:14 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-22 14:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:20 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:25 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-22 14:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-22 14:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:51 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:57:54 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-22 14:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:13 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:18 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:30 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:33 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:35 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 14:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:36 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 14:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:58:50 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-22 14:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-22 14:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-22 14:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:14 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2025-04-22 14:59:17 --> Undefined property: stdClass::$status
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(1139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 1139, Array)
+#1 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(209): App\Controllers\admin\Admin->send_wa('2f6a625e06edf21...', '1', 'Halo Kak, Terim...')
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+INFO - 2025-04-22 14:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:17 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2025-04-22 14:59:20 --> Undefined property: stdClass::$status
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(1139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 1139, Array)
+#1 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(209): App\Controllers\admin\Admin->send_wa('2f6a625e06edf21...', '1', 'Halo Kak, Terim...')
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+INFO - 2025-04-22 14:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:21 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2025-04-22 14:59:24 --> Undefined property: stdClass::$status
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(1139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 1139, Array)
+#1 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(209): App\Controllers\admin\Admin->send_wa('2f6a625e06edf21...', '1', 'Halo Kak, Terim...')
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+INFO - 2025-04-22 14:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:24 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2025-04-22 14:59:33 --> Undefined property: stdClass::$status
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(1139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 1139, Array)
+#1 C:\xampp\htdocs\rayakandigital\app\Controllers\admin\Admin.php(209): App\Controllers\admin\Admin->send_wa('2f6a625e06edf21...', '1', 'Halo Kak, Terim...')
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+INFO - 2025-04-22 14:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2025-04-22 14:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:41 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 14:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:44 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2025-04-22 14:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 14:59:45 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+CRITICAL - 2025-04-22 14:59:45 --> Undefined offset: 0
+#0 C:\xampp\htdocs\rayakandigital\app\Controllers\bukutamu\Bukutamu.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\bukutamu\Bukutamu->bukutamu()
+#2 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bukutamu\Bukutamu))
+#3 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+INFO - 2025-04-22 15:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 15:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:43 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-22 15:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:46 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:47 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-22 15:00:48 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2025-04-22 15:01:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-22 15:02:03 --> Controller "App\Controllers\base\Beranda" loaded.

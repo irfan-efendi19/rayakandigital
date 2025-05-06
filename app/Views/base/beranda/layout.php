@@ -107,7 +107,7 @@
         <div class="row g-5 py-5">
             <div class="col-lg-6 pe-lg-5">
                 <a href="index.html" class="navbar-brand">
-                    <h1 data-aos="fade-up" class="display-5">Rayakan Digital</h1>
+                    <h1 class="display-6">Rayakan Digital</h1>
                 </a>
                 <p>
                     Rayakan Digital adalah layanan undangan digital modern yang memudahkan Anda membagikan momen spesial

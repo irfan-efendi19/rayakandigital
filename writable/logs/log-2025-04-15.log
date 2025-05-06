@@ -1,0 +1,67 @@
+INFO - 2025-04-15 02:37:43 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2025-04-15 02:37:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:38:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:38:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:38:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:38:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:38:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:38:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:39:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 02:39:14 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 02:40:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:40:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:40:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 02:41:01 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 02:49:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 02:49:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 03:08:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:29:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:29:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:32:56 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:36:45 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:37:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:37:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:38:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:38:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:39:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:40:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:41:27 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:41:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-15 06:41:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2025-04-15 06:43:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:44:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:45:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:46:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:46:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:47:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:47:46 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:49:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:50:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:52:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:53:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-04-15 06:55:29 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-04-15 06:55:29 --> Undefined property: stdClass::$kategori_paket
+#0 C:\xampp\htdocs\rayakandigital\app\Views\base\beranda\home.php(296): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 296, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/beranda/ho...', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Views\base\beranda\layout.php(101): view('base/beranda/ho...')
+#4 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/beranda/ho...', Array, true)
+#6 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(46): view('base/beranda/la...', Array)
+#7 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#8 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#9 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+INFO - 2025-04-15 06:55:57 --> Controller "App\Controllers\base\Beranda" loaded.
