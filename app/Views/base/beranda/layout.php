@@ -140,7 +140,6 @@
                         <a class="btn btn-link">Buku Tamu</a>
                         <a class="btn btn-link">QR Code</a>
                         <a class="btn btn-link">LIVE Streaming</a>
-                        <a class="btn btn-link">Wedding Content Creator</a>
                     </div>
                     <div class="col-sm-6">
                         <h4 class="text-light mb-4">Tutorial</h4>
