@@ -544,11 +544,6 @@
                             <label class="custom-control-label" for="setQrcode">Halaman QrCode</label>
                         </div>
                         <div class="custom-control custom-switch mt-2">
-                            <input type="checkbox" class="custom-control-input" id="setProkes"
-                                <?php if($fitur[0]->prokes == '1') echo 'checked'; ?>>
-                            <label class="custom-control-label" for="setProkes">Halaman Prokes</label>
-                        </div>
-                        <div class="custom-control custom-switch mt-2">
                             <input type="checkbox" class="custom-control-input" id="setHadiah"
                                 <?php if($fitur[0]->hadiah == '1') echo 'checked'; ?>>
                             <label class="custom-control-label" for="setHadiah">Halaman Kirim Hadiah</label>

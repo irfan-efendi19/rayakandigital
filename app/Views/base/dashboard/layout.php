@@ -41,7 +41,7 @@
             <a class="sidebar-brand d-flex align-items-center justify-content-center"
                 href="<?= base_url('user/dashboard'); ?>">
                 <div class="sidebar-brand-icon">
-                    <img src="<?= base_url('assets/base'); ?>/img/logo2.png">
+                    <img src="<?= base_url('assets/base'); ?>/img/logoputih.png">
                 </div>
                 <div class="sidebar-brand-text mx-3"><?= SITE_NAME; ?></div>
             </a>

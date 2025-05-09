@@ -41,8 +41,6 @@
         content="Rayakan Digital adalah layanan undangan online & solusi acara digital untuk pernikahan, ulang tahun, dan lainnya." />
     <meta itemprop="image" content="<?= base_url() ?>/assets/base/img/thumbnail.jpg" />
 
-
-
     <!-- </head> -->
     <link rel="stylesheet" href="<?php echo base_url() ?>/assets/beranda/themes/assets/css/sw-main.css">
     <link rel="stylesheet" href="<?php echo base_url() ?>/assets/beranda/themes/assets/css/sw-responsive.css">
@@ -151,11 +149,43 @@
                         <h4 class="text-light mb-4">Metode Pembayaran</h4>
                         <div class="w-100">
                             <div class="row g-3 align-items-center">
-                                <div class="col-4 col-md-2">
-                                    <img src="/assets/base/img/bank.png" alt="BRI" class="img-fluid bank-logo">
+                                <div class="col-2">
+                                    <img src="/assets/base/img/bca.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/bni.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/briva.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/bsi.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/cimb.png" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/danamon.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/mualat.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/ocbc.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/permata.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/indomaret.png" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/alfa.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/alfamidi.webp" alt="BRI" class="img-fluid bank-logo">
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>

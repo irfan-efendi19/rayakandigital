@@ -12,43 +12,47 @@
                 </div>
             </div>
             <div class="col-lg-6 text-center">
-    <!-- Slideshow Layanan termasuk gambar -->
-    <div id="layananCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000" data-bs-touch="true">
-        
-        <!-- Bullet Controls -->
-        <div class="carousel-indicators">
-            <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-        </div>
+                <!-- Slideshow Layanan termasuk gambar -->
+                <div id="layananCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000"
+                    data-bs-touch="true">
 
-        <div class="carousel-inner text-center live-streaming-text">
-            <div class="carousel-item active">
-                <div class="image-wrapper">
-                    <img src="assets/files/f1.jpg" class="img-fluid" style="border-radius: 50px;">
+                    <!-- Bullet Controls -->
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="0" class="active"
+                            aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="1"
+                            aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#layananCarousel" data-bs-slide-to="2"
+                            aria-label="Slide 3"></button>
+                    </div>
+
+                    <div class="carousel-inner text-center live-streaming-text">
+                        <div class="carousel-item active">
+                            <div class="image-wrapper">
+                                <img src="assets/files/f1.jpg" class="img-fluid" style="border-radius: 50px;">
+                            </div>
+                            <div class="mt-2">Undangan Digital</div>
+                        </div>
+
+                        <div class="carousel-item">
+                            <div class="image-wrapper">
+                                <img src="assets/files/f3.jpg" class="img-fluid" style="border-radius: 50px;">
+                            </div>
+                            <div class="mt-2">Buku Tamu</div>
+                        </div>
+
+                        <div class="carousel-item">
+                            <div class="image-wrapper">
+                                <img src="assets/files/f2.jpg" class="img-fluid" style="border-radius: 50px;">
+                            </div>
+                            <div class="mt-2">Hitung Mundur</div>
+                        </div>
+                    </div>
                 </div>
-                <div class="mt-2">Undangan Digital</div>
             </div>
 
-            <div class="carousel-item">
-                <div class="image-wrapper">
-                    <img src="assets/files/f3.jpg" class="img-fluid" style="border-radius: 50px;">
-                </div>
-                <div class="mt-2">Buku Tamu</div>
-            </div>
-
-            <div class="carousel-item">
-                <div class="image-wrapper">
-                    <img src="assets/files/f2.jpg" class="img-fluid" style="border-radius: 50px;">
-                </div>
-                <div class="mt-2">Hitung Mundur</div>
-            </div>
         </div>
     </div>
-</div>
-
-            </div>
-        </div>
     </div>
 </section>
 
@@ -667,6 +671,54 @@
 </section>
 <!-- FAQ -->
 
+
+<!-- <section class="sw-container" id="themes_video">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+                <div class="area-title text-center">
+                    <h2>Undangan <span>Video</span></h2>
+                    <div class="title_border"></div>
+                </div>
+                <div class="owl-carousel slider-undangan owl-theme">
+                    <?php
+                      $i = 1;
+                    foreach ($tema_video->getResult() as $row) { ?>
+                    <article class="sw-theme">
+                        <figure>
+                            <ul class="attribute-list">
+                                <li><span class="label-coral"><?= $row->name ?></span></li>
+                            </ul>
+                            <img src="<?php echo base_url() ?>/assets/themes_video/<?= $row->preview ?>"
+                                alt="<?= $row->nama_tema ?>" class="img-responsive" />
+                        </figure>
+                        <div class="desc">
+                            <h3><?= $row->nama_tema ?></h3>
+                            <span class="price"><ins><span class="amount">Rp.
+                                        <?= number_format($row->harga) ?></span></ins>
+                            </span>
+                            <div class="readmore text-center">
+                                <a class="btn sw-button btn-preview btn-demo"
+                                    data-link="<?= htmlentities($row->url_video); ?>"
+                                    data-nama="<?= $row->nama_tema; ?>" title="Demo Video"><i class="fa fa-eye"></i></a>
+                                <a target="_blank"
+                                    href="https://api.whatsapp.com/send?phone=<?= $setting[0]->no_wa; ?>&text=Assalamualaikum, Kak saya mau pesan Undangan video <?= $row->nama_tema ?>%0ABagaimana cara pesannya kak?"
+                                    class="btn sw-button btn-shop-2 btn-shop btn-details" title="Pesan Sekarang"><i
+                                        class="fa fa-shopping-basket"></i></a>
+                            </div>
+                        </div>
+                    </article>
+                    <?php if ($i++ == 8) break; } ?>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+                    <a href="<?= base_url() ?>/tema_video" class="btn sw-button btn-register-lg">Lihat Lebih Banyak</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+
 <!-- Testimonial Start -->
 <section class="container-xxl py-5" id="testi">
     <div data-aos="fade-down" class="container-fluid">
@@ -696,21 +748,21 @@
 <!-- Testimonial End -->
 
 <!-- KERJA SAMA -->
-<section class="marquee-section">
+<!-- <section class="marquee-section">
     <div class="container">
         <h2 class="area-title text-center">Partner & Kolaborator</h2>
     </div>
     <div class="marquee-wrapper">
         <div class="marquee">
             <div class="marquee-group">
-                <img src="https://via.placeholder.com/150x80?text=Logo+1" alt="Logo 1">
+                <img src="https://images.seeklogo.com/logo-png/45/1/bank-bri-logo-png_seeklogo-459990.png" alt="Logo 1">
                 <img src="https://via.placeholder.com/150x80?text=Logo+2" alt="Logo 2">
                 <img src="https://via.placeholder.com/150x80?text=Logo+3" alt="Logo 3">
                 <img src="https://via.placeholder.com/150x80?text=Logo+4" alt="Logo 4">
                 <img src="https://via.placeholder.com/150x80?text=Logo+5" alt="Logo 5">
             </div>
             <div class="marquee-group" aria-hidden="true">
-                <img src="https://via.placeholder.com/150x80?text=Logo+1" alt="Logo 1">
+                <img src="https://images.seeklogo.com/logo-png/45/1/bank-bri-logo-png_seeklogo-459990.png" alt="Logo 1">
                 <img src="https://via.placeholder.com/150x80?text=Logo+2" alt="Logo 2">
                 <img src="https://via.placeholder.com/150x80?text=Logo+3" alt="Logo 3">
                 <img src="https://via.placeholder.com/150x80?text=Logo+4" alt="Logo 4">
@@ -718,7 +770,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- KERJA SAMA -->
 
