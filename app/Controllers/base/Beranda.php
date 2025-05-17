@@ -177,6 +177,22 @@ class Beranda extends Controller
 	{
 		return view('base/maps');
 	}
+
+	public function kebijakanprivasi()
+	{
+		return view('base/kebijakanprivasi');
+	}
+
+	public function tentangkami()
+	{
+		return view('base/tentangkami');
+	}
+
+		public function syaratketentuan()
+	{
+		return view('base/syaratketentuan');
+	}
+
 	public function import_tamu()
 	{
 		return view('base/import_tamu');

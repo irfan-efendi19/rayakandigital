@@ -105,6 +105,11 @@ if(isset($_SERVER['HTTP_HOST'])){
 	$routes->add('youtube', 'Beranda::youtube');
 	$routes->add('maps', 'Beranda::maps');
 	$routes->add('import_tamu', 'Beranda::import_tamu');
+
+	//TUTORIAL
+	$routes->add('kebijakanprivasi', 'Beranda::kebijakanprivasi');
+	$routes->add('tentangkami', 'Beranda::tentangkami');
+	$routes->add('syaratketentuan', 'Beranda::syaratketentuan');
 	
 	//TEMA
 	$routes->add('tema', 'Beranda::themes');

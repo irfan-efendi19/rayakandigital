@@ -1650,74 +1650,77 @@ Nominal : '.number_format($result->gross_amount).'
 	}
    
 	public function pembayaran_tripay(){
-		 $token = $this->DashboardModel->get_token();
-		foreach ($this->DashboardModel->get_setting_bayar() as $row){
-            $apiKey       = $row->apikey_tripay;
-            $privateKey   = $row->privatekey_tripay;
-            $merchantCode = $row->merchantcode_tripay;
-            $urlTrans   = $row->url_tripay;
-        }
+    $token = $this->DashboardModel->get_token();
+    foreach ($this->DashboardModel->get_setting_bayar() as $row){
+        $apiKey       = $row->apikey_tripay;
+        $privateKey   = $row->privatekey_tripay;
+        $merchantCode = $row->merchantcode_tripay;
+        $urlTrans   = $row->url_tripay;
+    }
 
-        $method = $this->request->getPost('metode_bayar');
-        $ordernya = $this->DashboardModel->get_pembayaran_by_id_user();
-        foreach( $ordernya as $order){
-            $merchantRef = $order->invoice;
-            $amount = $order->harga;
-            $email = $order->email;
-            $hp = $order->hp;
-        }
-        
-        $data = [
-            'method'         => $method,
-            'merchant_ref'   => $merchantRef,
-            'amount'         => $amount,
-            'customer_name' => $email,
-            'customer_email' => $email,
-            'customer_phone' => $hp,
-            'expired_time' => (time() + (1 * 60 * 60)),// 1 jam
-            'signature'    => hash_hmac('sha256', $merchantCode.$merchantRef.$amount, $privateKey),
-            'order_items'    => [
-                [
-                    'sku'         => $merchantRef,
-                    'name'        => 'UNDANGAN',
-                    'price'       => $amount,
-                    'quantity'    => 1,
-                ]
-            ],
-        ];
-        
-        $curl = curl_init();
-        
-        curl_setopt_array($curl, [
-            CURLOPT_FRESH_CONNECT  => true,
-            CURLOPT_URL            => $urlTrans,
-            CURLOPT_RETURNTRANSFER => true,
-            CURLOPT_HEADER         => false,
-            CURLOPT_HTTPHEADER     => ['Authorization: Bearer '.$apiKey],
-            CURLOPT_FAILONERROR    => false,
-            CURLOPT_POST           => true,
-            CURLOPT_POSTFIELDS     => http_build_query($data)
-        ]);
-        
-        $response = curl_exec($curl);
-        $error = curl_error($curl);
-        
-        curl_close($curl);
-        error_log($response);
-        $result = json_decode($response);
-        if(empty($result->data)){
+    $method = $this->request->getPost('metode_bayar');
+    $ordernya = $this->DashboardModel->get_pembayaran_by_id_user();
+    foreach( $ordernya as $order){
+        $merchantRef = $order->invoice;
+        $amount = $order->harga;
+        $email = $order->email;
+        $hp = $order->hp;
+    }
+    
+    $data = [
+        'method'         => $method,
+        'merchant_ref'   => $merchantRef,
+        'amount'         => $amount,
+        'customer_name' => $email,
+        'customer_email' => $email,
+        'customer_phone' => $hp,
+        'expired_time' => (time() + (1 * 60 * 60)),// 1 jam
+        'signature'    => hash_hmac('sha256', $merchantCode.$merchantRef.$amount, $privateKey),
+        'order_items'    => [
+            [
+                'sku'         => $merchantRef,
+                'name'        => 'UNDANGAN',
+                'price'       => $amount,
+                'quantity'    => 1,
+            ]
+        ],
+    ];
+    
+    $curl = curl_init();
+    
+    curl_setopt_array($curl, [
+        CURLOPT_FRESH_CONNECT  => true,
+        CURLOPT_URL            => $urlTrans,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_HEADER         => false,
+        CURLOPT_HTTPHEADER     => ['Authorization: Bearer '.$apiKey],
+        CURLOPT_FAILONERROR    => false,
+        CURLOPT_POST           => true,
+        CURLOPT_POSTFIELDS     => http_build_query($data)
+    ]);
+    
+    $response = curl_exec($curl);
+    $error = curl_error($curl);
+    
+    curl_close($curl);
+    error_log($response);
+    $result = json_decode($response);
+    
+    if(empty($result->data)){
         session()->setFlashdata("error", "Payment channel is not available or under maintenance");
-		return redirect()->to('/user/invoice');
-        }else{
+        return redirect()->to('/user/invoice');
+    }else{
         $data_simpan = [
-		    'status'            => '1',
+            'status'            => '1',
             'payment_type'      => 'bank transfer',
             'nama_bank'         => $result->data->payment_name,
-            'va_number'         => $result->data->pay_code,        
+            'va_number'         => $result->data->pay_code,
+            'qris'              => ($method == 'QRIS') ? $result->data->qr_url : null, // Tambahkan parameter QRIS
             'transaction_time'  => date("Y-m-d H:i:s"),
             'transaction_expired'  => date('Y-m-d H:i:s', $result->data->expired_time),
             'instruction'       => json_encode($result->data->instructions)
         ];
+
         $message = 'Halo Kak, Terima Kasih Sudah Memesan Undangan Digital '.DOMAIN_UTAMA.'
             
 Mohon segera selesaikan Pembayaran Anda #'.$merchantRef.' sebelum tanggal *'.date('Y-m-d H:i', $result->data->expired_time).'*.
@@ -1729,7 +1732,7 @@ Nominal : '.number_format($amount).'
 
         $this->send_wa($token, $hp, $message);
         $save = $this->DashboardModel->update_pembayaran($data_simpan,$merchantRef);
-            return redirect()->to(base_url('user/invoice'));
-	}
-	}
+        return redirect()->to(base_url('user/invoice'));
+    }
+}
 }

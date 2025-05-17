@@ -145,6 +145,12 @@
                         <a class="btn btn-link" href="youtube">Menambahkan Video Youtube</a>
                         <a class="btn btn-link" href="import_tamu">Import Tamu Menggunakan Excel</a>
                     </div>
+                    <div class="col-sm-6">
+                        <h4 class="text-light mb-4">Bantuan</h4>
+                        <a class="btn btn-link" href="syaratketentuan">Syarat dan Ketentuan</a>
+                        <a class="btn btn-link" href="kebijakanprivasi">Kebijakan Privasi</a>
+                        <a class="btn btn-link" href="tentangkami">Tentang Kami</a>
+                    </div>
                     <div class="col-sm-12">
                         <h4 class="text-light mb-4">Metode Pembayaran</h4>
                         <div class="w-100">
@@ -160,6 +166,9 @@
                                 </div>
                                 <div class="col-2">
                                     <img src="/assets/base/img/bsi.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/mandiri.webp" alt="BRI" class="img-fluid bank-logo">
                                 </div>
                                 <div class="col-2">
                                     <img src="/assets/base/img/cimb.png" alt="BRI" class="img-fluid bank-logo">
@@ -184,6 +193,9 @@
                                 </div>
                                 <div class="col-2">
                                     <img src="/assets/base/img/alfamidi.webp" alt="BRI" class="img-fluid bank-logo">
+                                </div>
+                                <div class="col-2">
+                                    <img src="/assets/base/img/qris.png" alt="BRI" class="img-fluid bank-logo">
                                 </div>
                             </div>
                         </div>

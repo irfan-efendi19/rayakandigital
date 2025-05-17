@@ -456,9 +456,7 @@ if($setting[0]->aktif <= 0 || $today >= $tglNonaktif ){
             <div class="col-12 maps">
                 <?= $maps ?>
             </div>
-
         </div>
-
     </div>
 
 

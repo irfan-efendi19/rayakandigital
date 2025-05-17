@@ -3,8 +3,6 @@
      <div class="d-sm-flex align-items-center justify-content-between mb-4">
          <h1 class="h3 mb-0 text-gray-800"><?= $title; ?></h1>
          <div>
-
-
              <a href="<?= SITE_UNDANGAN ?>/<?= $order[0]->domain ?>" class="btn btn-primary btn-sm">Lihat Website</a>
 
          </div>
@@ -171,7 +169,6 @@
                              <button class="btn btn-sm btn-secondary" onclick="copyToClipboard('#norek')">Salin</button>
                          </div>
                      </div>
-
                      <div class="form-group">
                          <label>Atas Nama</label>
                          <div class="upload-area-bg" style="margin-top: 5px;text-align: center;background: #f1f2f6;">
@@ -200,19 +197,33 @@
                          </div>
                      </div>
                      <?php } ?>
+                     <?php if (!empty($pembayaran[0]->va_number)) : ?>
                      <div class="form-group">
                          <label>Nomor Rekening</label>
                          <div class="upload-area-bg d-flex justify-content-between"
                              style="margin-top: 5px;text-align: center;background: #f1f2f6;">
-                             <a style="font-size: 18px;text-transform: uppercase;color: #2c3e50;"><span
-                                     id="norek"><?= $pembayaran[0]->va_number ?></span></a>
+                             <a style="font-size: 18px;text-transform: uppercase;color: #2c3e50;">
+                                 <span id="norek"><?= $pembayaran[0]->va_number ?></span>
+                             </a>
                              <button class="btn btn-sm btn-secondary" onclick="copyToClipboard('#norek')">Salin</button>
                          </div>
                      </div>
+                     <?php endif; ?>
+                     <?php if (!empty($pembayaran[0]->qris)) : ?>
+                     <div class="form-group">
+                         <label>QRIS</label>
+                         <div class="upload-area-bg d-flex justify-content-between"
+                             style="margin-top: 5px;text-align: center;background: #f1f2f6;">
+                             <img src="<?= base_url($pembayaran[0]->qris) ?>" alt="QRIS"
+                                 style="max-width: 100%; height: auto;">
+                         </div>
+                     </div>
+                     <?php endif; ?>
+
+
                      <?php } if($metode_bayar == 'tripay' && !empty($instruction)){ ?>
                      <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#modalPembayaran">Cara
                          Pembayaran</button>
-
                      <?php } ?>
                  </div>
 
@@ -357,10 +368,7 @@
                              </div>
                          </div>
                      </div>
-
                      <?php $i++; } }?>
-
-
                  </div>
              </div>
              <div class="modal-footer">
@@ -472,8 +480,4 @@ $('#re_order').on('click', function(event) {
         }
     });
 });
-
-const vaNumber = document.getElementById("norek").innerText;
-console.log("VA Number:", vaNumber);
-console.log("Tipe Data:", typeof vaNumber);
  </script>

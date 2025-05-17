@@ -1,0 +1,248 @@
+INFO - 2025-05-18 02:02:29 --> Controller "CodeIgniter\CLI\CommandRunner" loaded.
+INFO - 2025-05-18 02:02:36 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:02:36 --> Unknown database 'nikah'
+#0 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\rayakandigital\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#3 C:\xampp\htdocs\rayakandigital\app\Models\base\BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+INFO - 2025-05-18 02:02:36 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:02:36 --> Unknown database 'nikah'
+#0 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\rayakandigital\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#3 C:\xampp\htdocs\rayakandigital\app\Models\base\BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+INFO - 2025-05-18 02:03:19 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:03:19 --> Table 'nikah.themes' doesn't exist
+#0 C:\xampp\htdocs\rayakandigital\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `themes`...')
+#1 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `themes`...')
+#2 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `themes`...')
+#3 C:\xampp\htdocs\rayakandigital\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#4 C:\xampp\htdocs\rayakandigital\app\Models\base\BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#7 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#8 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+INFO - 2025-05-18 02:03:21 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:03:21 --> Table 'nikah.themes' doesn't exist
+#0 C:\xampp\htdocs\rayakandigital\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `themes`...')
+#1 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `themes`...')
+#2 C:\xampp\htdocs\rayakandigital\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `themes`...')
+#3 C:\xampp\htdocs\rayakandigital\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#4 C:\xampp\htdocs\rayakandigital\app\Models\base\BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#7 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#8 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+INFO - 2025-05-18 02:04:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:05:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:08:22 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:08:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:08:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:08:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:08:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:08:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:10:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:10:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:10:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:12:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:12:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:13:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:15:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:20:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:21:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:21:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:21:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:21:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:22:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:22:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:23:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:25:19 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:26:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:26:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:26:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:26:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:26:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:28:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:28:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:28:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:28:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:29:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:30:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:30:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:31:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:31:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:32:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:32:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:32:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:32:41 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:32:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:33:29 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:34:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:34:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:34:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:35:00 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:35:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:35:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:37:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:38:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:38:35 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:38:35 --> Undefined variable: total_users
+#0 C:\xampp\htdocs\rayakandigital\app\Views\base\tentangkami.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 150, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/tentangkam...', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(188): view('base/tentangkam...')
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->tentangkami()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+INFO - 2025-05-18 02:41:45 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:41:45 --> Undefined variable: total_users
+#0 C:\xampp\htdocs\rayakandigital\app\Views\base\tentangkami.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 150, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/tentangkam...', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(188): view('base/tentangkam...')
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->tentangkami()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+INFO - 2025-05-18 02:41:46 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:41:46 --> Undefined variable: total_users
+#0 C:\xampp\htdocs\rayakandigital\app\Views\base\tentangkami.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 150, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/tentangkam...', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(188): view('base/tentangkam...')
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->tentangkami()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+INFO - 2025-05-18 02:41:46 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:41:46 --> Undefined variable: total_users
+#0 C:\xampp\htdocs\rayakandigital\app\Views\base\tentangkami.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 150, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/tentangkam...', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(188): view('base/tentangkam...')
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->tentangkami()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+INFO - 2025-05-18 02:41:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:41:50 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:41:50 --> Undefined variable: total_users
+#0 C:\xampp\htdocs\rayakandigital\app\Views\base\tentangkami.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 150, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/tentangkam...', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(188): view('base/tentangkam...')
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->tentangkami()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+INFO - 2025-05-18 02:47:49 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2025-05-18 02:47:49 --> Undefined variable: total_users
+#0 C:\xampp\htdocs\rayakandigital\app\Views\base\tentangkami.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 150, Array)
+#1 C:\xampp\htdocs\rayakandigital\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rayakandigital\system\Common.php(1071): CodeIgniter\View\View->render('base/tentangkam...', Array, true)
+#3 C:\xampp\htdocs\rayakandigital\app\Controllers\base\Beranda.php(188): view('base/tentangkam...')
+#4 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(910): App\Controllers\base\Beranda->tentangkami()
+#5 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#6 C:\xampp\htdocs\rayakandigital\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\rayakandigital\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\rayakandigital\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+INFO - 2025-05-18 02:48:14 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:48:30 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:49:06 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:49:26 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:49:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:50:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:50:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:50:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:50:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:51:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:52:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:52:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:53:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:53:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:54:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:55:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:55:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:55:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:55:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:02 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:36 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:56:37 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:57:28 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:59:07 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 02:59:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:00:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:00:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:00:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:02:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:02:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:03:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:03:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:04:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:04:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:04:27 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:05:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:05:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:05:51 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:05:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:06:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:06:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:07:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:08:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:09:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:09:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:09:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2025-05-18 03:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-18 03:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-05-18 03:27:23 --> Controller "App\Controllers\admin\Admin" loaded.
